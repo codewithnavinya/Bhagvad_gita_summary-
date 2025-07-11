@@ -47,5 +47,5 @@ python bhagavad_gita_summary.py
 
 ## 🙏 Credits
 
-Made with 🧘 and 💻 by [Your Name]  
+Made with 🧘 and 💻 by Navinya  
 Inspired by the eternal wisdom of **Bhagavad Gita**
